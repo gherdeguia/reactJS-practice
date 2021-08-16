@@ -1,0 +1,26 @@
+.counter, .headers, #bottomCounter{
+    font-size:xx-large;
+  }
+
+  #bottomCounter{
+      margin-top: 20px;
+      border: solid 1px black;
+  }
+
+  #increment, #decrement, .numbers{
+
+    font-size: xx-large;
+    box-shadow: none;
+    padding: 10px 30px;
+  }
+
+  .numbers{
+    padding: 10px 50px;
+  }
+  
+  #increment{
+    background-color: rgb(162, 226, 162);
+  }
+  #decrement{
+    background-color: rgb(233, 139, 139);
+  }
